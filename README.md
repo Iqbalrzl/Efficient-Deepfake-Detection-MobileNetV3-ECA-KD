@@ -1,4 +1,4 @@
-# Efficient-Deepfake-Detection-MobileNetV3-ECA-KD
+# Efficient DeepFake Detection Based on MobileNetV3 with Lightweight Attention and Knowledge Distillation
 
 A lightweight deepfake detection model based on MobileNetV3, optimised for real-time mobile and edge deployment. The model replaces Squeeze-and-Excitation with Efficient Channel Attention (ECA) to reduce parameters by over 50%, and applies knowledge distillation from a ConvNeXt teacher to preserve accuracy.
 
